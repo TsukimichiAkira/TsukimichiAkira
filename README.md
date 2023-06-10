@@ -1,5 +1,5 @@
-[![Number of follower on twitter](https://img.shields.io/github/followers/TsukimichiAkira?style=flat-square&logo=github)](https://github.com/TsukimichiAkira)
-[![Number of follower on twitter](https://img.shields.io/twitter/follow/TsukimichiAkira_?style=flat-square&logo=twitter)](https://twitter.com/TsukimichiAkira_)
+[![Number of follower on github](https://img.shields.io/github/followers/TsukimichiAkira?style=flat-square&logo=github)](https://github.com/TsukimichiAkira)
+[![Number of follower on twitter](https://img.shields.io/twitter/follow/TsukimichiAkira_?style=flat-square&logo=twitter)](https://twitter.com/tsukimichiakira)
 
 # About me
 
